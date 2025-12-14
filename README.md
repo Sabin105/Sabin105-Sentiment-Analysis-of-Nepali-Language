@@ -1,1 +1,3 @@
 # Sabin105-Sentiment-Analysis-of-Nepali-Language
+The “Nepali Sentiment Analysis” dataset on Kaggle by Aayam Oza is a labelled collection of Nepali text sentences intended for training and evaluating sentiment analysis models. It contains Nepali language sentences paired with sentiment labels (e.g., positive, negative, neutral) that can be used to build and test machine learning classifiers for sentiment prediction in low‑resource Nepali NLP tasks. While the exact column details aren’t fully shown on the page, the dataset is widely referenced as a standard CSV of Nepali text with target sentiment labels for research and projects in Nepali sentiment analysis. The dataset is available on Kaggle at https://www.kaggle.com/datasets/aayamoza/nepali-sentiment-analysis
+.
